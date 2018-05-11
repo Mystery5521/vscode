@@ -1,0 +1,27 @@
+*{
+	box-sizing: border-box;
+}
+
+h1{
+	background-color: gray;
+	color: white;
+	margin: 0;
+}
+
+.d1,.d2,.d3,.d4,.d5{
+	border: 1px solid gold;
+}
+
+h2{
+	font-size: 17px;
+	background-color: #CDC9C9;
+	width: 100px;
+	height: 100px;
+	margin-left: 0px;
+	padding-top: 35px;
+	text-align: center;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	
+}
+
